@@ -16,6 +16,7 @@ I am **Shafiqul Islam** nick name **Sumon Ahmed**, currently working at Informat
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![MySql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
@@ -25,8 +26,9 @@ I am **Shafiqul Islam** nick name **Sumon Ahmed**, currently working at Informat
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techmeta&layout=compact&theme=dark)
-arent)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php)
+![MySql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
 
 ## 📂 Projects
 
